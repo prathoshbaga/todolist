@@ -1,7 +1,6 @@
 A simple todolist implementation using rust programming language.
 
 Usage: tdl [COMMAND] [ARGUMENTS]
-tdl is a simple task list programmed using rust
 commands:
     - add [TASK/s]
         adds new task/s
